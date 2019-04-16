@@ -10,6 +10,7 @@ Salary decimal (10,2),
 Super_ssn char(9),
 Dno INT NOT NULL
 );
+daasdfalkd
 
 Create table Department(
 Dname varchar(30) Not Null,
